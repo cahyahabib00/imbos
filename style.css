@@ -1,0 +1,43 @@
+body {
+  min-height: 2000px;
+}
+
+.semua {
+  margin: 50px;
+}
+
+.atas {
+  background-color: rgb(69, 2, 84);
+}
+
+.jumbotron {
+  padding: 2rem;
+  background-color: rgb(251, 233, 255);
+}
+
+#project {
+  background-color: rgb(251, 233, 255);
+  padding-top: 50px;
+}
+
+.batas {
+  height: 50px;
+  background-color: rgb(251, 233, 255);
+}
+
+.row {
+  justify-content: center;
+}
+
+
+#tombol {
+  margin-top: 100px;
+}
+
+.btn {
+  margin-bottom: 20px;
+}
+
+.imgutama {
+  margin-top: 55px;
+}
